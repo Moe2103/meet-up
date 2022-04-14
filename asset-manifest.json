@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Moe2103/meet-up.git/static/css/main.073c9b0a.css",
+    "main.js": "/Moe2103/meet-up.git/static/js/main.7541d259.js",
+    "static/js/377.dda790c9.chunk.js": "/Moe2103/meet-up.git/static/js/377.dda790c9.chunk.js",
+    "service-worker.js": "/Moe2103/meet-up.git/service-worker.js",
+    "static/media/logo.svg": "/Moe2103/meet-up.git/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/Moe2103/meet-up.git/index.html",
+    "main.073c9b0a.css.map": "/Moe2103/meet-up.git/static/css/main.073c9b0a.css.map",
+    "main.7541d259.js.map": "/Moe2103/meet-up.git/static/js/main.7541d259.js.map",
+    "377.dda790c9.chunk.js.map": "/Moe2103/meet-up.git/static/js/377.dda790c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7541d259.js"
+  ]
+}
